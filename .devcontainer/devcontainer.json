@@ -1,5 +1,6 @@
 {
-    "name": "Codespace furkan",
+    // Name this configuration
+    "name": "Codespae furkan!",
     "customizations": {
         "vscode": {
             "extensions": [
